@@ -2,6 +2,8 @@
 
 **Get Next Line** es un proyecto desarrollado en 42 Madrid. Su objetivo principal es crear una función en C que permita leer líneas completas desde un descriptor de archivo (file descriptor) de manera eficiente.
 
+![Logo 42 Madrid](42-Madrid.jpeg)
+
 ### Descripción del Proyecto
 
 El proyecto consiste en implementar la función `get_next_line`, que devuelve una línea leída de un file descriptor. Esta función es ideal para procesar entradas línea a línea sin necesidad de cargar todo el contenido de un archivo en memoria.
