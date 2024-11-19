@@ -50,4 +50,4 @@ La parte bonus incluye:
 
 ### Aclaración
 
-Este proyecto sigue los estándares de la Norma de 42.
+Este proyecto sigue los estándares de la **Norma de 42**.
